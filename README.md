@@ -31,7 +31,7 @@ dotnet run --project src/LibraryManagement.WinForms
 
 ### Главное меню
 
-![Главное меню](docs/screenshots/Главное меню.png)
+![Главное меню](docs/screenshots/ГлавноеМеню.png)
 
 ### Каталог книг
 
